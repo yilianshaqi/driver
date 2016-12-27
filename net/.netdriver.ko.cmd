@@ -1,0 +1,1 @@
+cmd_/home/hy/practice/net/netdriver.ko := arm-none-linux-gnueabi-ld -EL -r  -T /home/hy/linux-3.14/scripts/module-common.lds --build-id  -o /home/hy/practice/net/netdriver.ko /home/hy/practice/net/netdriver.o /home/hy/practice/net/netdriver.mod.o

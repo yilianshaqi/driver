@@ -1,0 +1,1 @@
+cmd_/home/hy/practice/driver_block/dev.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /home/hy/practice/driver_block/dev.ko /home/hy/practice/driver_block/dev.o /home/hy/practice/driver_block/dev.mod.o
